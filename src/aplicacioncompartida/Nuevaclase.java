@@ -10,6 +10,7 @@ package aplicacioncompartida;
  * @author LabB6
  */
 public class Nuevaclase {
+    String n1="hola";
 
     /**
      * @param args the command line arguments
