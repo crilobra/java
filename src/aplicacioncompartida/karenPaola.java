@@ -11,6 +11,7 @@ package aplicacioncompartida;
  */
 public class karenPaola {
     private String nombre;
+    private String direccion;
 
     public String getNombre() {
         return nombre;
