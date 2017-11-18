@@ -7,15 +7,8 @@ package aplicacioncompartida;
 
 /**
  *
- * @author ServerB
+ * @author LabB8
  */
-public class AplicacionCompartida {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        
-    }
+public class Andrea {
     
 }
