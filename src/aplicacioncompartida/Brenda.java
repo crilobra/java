@@ -12,6 +12,7 @@ package aplicacioncompartida;
 public class Brenda {
     public void imprimir(){
     System.out.println("Hola mundo"); 
+    
     }
 }
 
